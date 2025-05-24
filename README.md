@@ -2,6 +2,10 @@
 
 This is a full-featured **Admin Panel Web App** built as part of an internship assignment. dashboard analytics, product/order/customer management, and an integrated AI chat assistant.
 
+## 🚀 Live Demo
+
+Check out the live version here: https://admin-panel-with-ai-fszl.vercel.app
+
 ## Features
 
 - **Dashboard Overview**
